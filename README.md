@@ -1,16 +1,19 @@
-## Hi there 👋
+## Insights in Belgian parliamentary data.
 
-<!--
-**partijgedrag/partijgedrag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+The Belgian Chamber of Representatives is a key institution in Belgian democracy. It represents the people and plays a central role in the legislative process.
 
-Here are some ideas to get you started:
+We believe that the parliamentary information such as:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- how does an MP vote
+- how does a party vote
+- what is happening around topic X
+
+should be easily retrievable.
+
+The project `Partijgedrag` aims to make this possible by compiling and visualizing data insights into the Belgian parliament.
+
+The project is purely non-commercial, civic and educational.
+
+## Interested?
+
+Are you a software developer, a journalist or someone else interested in this project? Get in touch at [https://partijgedrag.be/feedback/](https://partijgedrag.be/feedback/).
