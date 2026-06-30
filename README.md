@@ -17,6 +17,7 @@ The project `Partijgedrag` aims to make this possible by compiling and visualizi
 This project is purely non-commercial, civic and educational. It contains of 2 main repositories:
 
 [core](https://github.com/partijgedrag/core): scrapers that collect parliamentary data and generates structured `.parquet` files
+
 [web](https://github.com/partijgedrag/web): a web frontend for [https://partijgedrag.be/](https://partijgedrag.be/) that visualizes parliamentary data
 
 ## Interested?
